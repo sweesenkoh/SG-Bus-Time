@@ -1,0 +1,6 @@
+module Pods_BusStops {
+  umbrella header "Pods-BusStops-umbrella.h"
+
+  export *
+  module * { export * }
+}
