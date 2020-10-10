@@ -37,7 +37,7 @@ Youtube Link: https://www.youtube.com/watch?v=NCorzuUA9aE
 <br>
 <br>
 
-![750x750bb](https://user-images.githubusercontent.com/48687942/54546652-188ded80-49df-11e9-8947-641a665732de.jpeg)
-![750x750bb-2](https://user-images.githubusercontent.com/48687942/54546679-293e6380-49df-11e9-8287-cd1812b1f108.jpeg)
-![750x750bb-3](https://user-images.githubusercontent.com/48687942/54546724-3d826080-49df-11e9-8e97-b3cbd2e6c8dc.jpeg)
-![750x750bb-4](https://user-images.githubusercontent.com/48687942/54546822-77ebfd80-49df-11e9-8ad6-8ce1f49c9bbd.jpeg)
+![700x700bb](https://user-images.githubusercontent.com/48687942/54546652-188ded80-49df-11e9-8947-641a665732de.jpeg)
+![700x700bb-2](https://user-images.githubusercontent.com/48687942/54546679-293e6380-49df-11e9-8287-cd1812b1f108.jpeg)
+![700x700bb-3](https://user-images.githubusercontent.com/48687942/54546724-3d826080-49df-11e9-8e97-b3cbd2e6c8dc.jpeg)
+![700x700bb-4](https://user-images.githubusercontent.com/48687942/54546822-77ebfd80-49df-11e9-8ad6-8ce1f49c9bbd.jpeg)
